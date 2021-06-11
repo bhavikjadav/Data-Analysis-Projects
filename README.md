@@ -13,3 +13,9 @@
 ## ratings, movie metadata (genres and year), and demographic data about the users
 ## (age, zip code, gender identification, and occupation). Such data is often of interest in
 ## the development of recommendation systems based on machine learning algorithms.
+
+# 3. The Weather Dataset
+## Here, the weather dataset is the timeseries dataset with per-hour information about the weather conditions at a particular location. It records temprature. Dew Point 
+## temprature. Relative Humidity, Wind Speed, Visibility, Pressure and Conditions.
+## The data is available as a CSV file. We are going to analyze the data set using the Pandas DataFrame.
+## We have solved 15 question for best visualization, we have not used MatplotLib or Seaborn.
