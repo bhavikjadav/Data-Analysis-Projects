@@ -19,3 +19,8 @@
 ## temprature. Relative Humidity, Wind Speed, Visibility, Pressure and Conditions.
 ## The data is available as a CSV file. We are going to analyze the data set using the Pandas DataFrame.
 ## We have solved 15 question for best visualization, we have not used MatplotLib or Seaborn.
+
+# 4. Cars Dataset
+## Here, I have analyzed the Cars Dataset which comes from Kaggle Dataset.
+## In this analysis i have solved 5 most important questions which is very helpful for big data analysis.
+## I have used isin(), Filtering, Appy() and many more important questions.
